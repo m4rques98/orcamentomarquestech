@@ -18,7 +18,7 @@ Ferramenta web simples para geração de orçamentos profissionais em PDF.
 ## 📄 Como usar
 
 1. Acesse o sistema:
-👉 https://m4rques98.github.io/or-amentomarquestech/
+👉 https://m4rques98.github.io/orcamentomarquestech/
 
 2. Preencha:
 - Nome do cliente
